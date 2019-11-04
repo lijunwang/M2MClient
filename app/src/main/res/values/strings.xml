@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">M2MClient</string>
+    <string name="number_hint">请输入要重启设备的电话号码</string>
+    <string name="reboot">重启</string>
+    <string name="permission_rationale">需要发送短信通知M2M重启</string>
+    <string name="permission_ok">确定</string>
+    <string name="permission_cancel">取消</string>
+    <string name="test_number">17404451198</string>
 </resources>
